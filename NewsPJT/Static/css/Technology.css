@@ -1,0 +1,12 @@
+.jumbotron{
+    margin-top: 0px;
+    background:url(https://images.pexels.com/photos/41102/pexels-photo-41102.jpeg?cs=srgb&dl=dry-leaves-forest-hd-wallpaper-41102.jpg&fm=jpg);
+    background-size: cover;
+    color: blue;
+}
+
+body{
+background:url(https://images.pexels.com/photos/41102/pexels-photo-41102.jpeg?cs=srgb&dl=dry-leaves-forest-hd-wallpaper-41102.jpg&fm=jpg);
+background-size: cover;
+color:  white;
+}

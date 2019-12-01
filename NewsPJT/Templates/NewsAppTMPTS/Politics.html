@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+{%load staticfiles%}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel = "stylesheet" href = "{%static "css/Politics.css" %}">
+
+</head>
+<body>
+    <h1>This is Today's politic information!!</h1><hr>
+    <ul>
+        <li>{{line1|upper}}</li>
+        <li>{{line2}}</li>
+        <li>{{line3}}</li>
+        <li>{{line4}}</li>
+        <li>{{line5}}</li>
+    </ul>
+    <img src = "{%static "images/SriKrishna.jpg" %}">
+
+</body>
+</html>

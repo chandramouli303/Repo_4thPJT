@@ -1,0 +1,12 @@
+.jumbotron{
+    margin-top: 0px;
+    background:url(https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg);
+    background-size: cover;
+    color:yellow;
+}
+
+body{
+background: red;
+background:url(https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg);
+background-size: cover;
+}
